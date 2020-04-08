@@ -13,3 +13,10 @@
   website: https://ghost.org/
   location: On a plane
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Wholeafs
+  avatar: avatars/wholeaf.png
+  bio: The green in your life
+  twitter: #
+  website: https://wholeafs.netlify.com/
+  location: On your walls
+  profile_image: img/author-wl-bg.jpg

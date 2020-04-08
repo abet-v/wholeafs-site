@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Wholeafs',
     description: 'Get some green in your life',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    siteUrl: 'https://wholeafs.netlify.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -47,7 +47,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://wholeafs.netlify.com',
       },
     },
     'gatsby-plugin-emotion',
@@ -65,7 +65,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-XXXX-Y',
+        trackingId: 'UA-63760314-2',
         // Puts tracking script in the head instead of the body
         head: true,
         // IP anonymization for GDPR compliance

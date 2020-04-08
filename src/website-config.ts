@@ -59,8 +59,8 @@ const config: WebsiteConfig = {
   twitter: '#',
   showSubscribe: true,
   mailchimpAction:
-    'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+    'https://netlify.us19.list-manage.com/subscribe/post?u=14106ec1afe42ac81ad24afa0&amp;id=d44cd173b2',
+  mailchimpName: 'b_14106ec1afe42ac81ad24afa0_d44cd173b2',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',

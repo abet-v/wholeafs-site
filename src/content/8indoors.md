@@ -3,7 +3,7 @@ title: '7 indoor plants to grow at home'
 author: Wholeafs
 tags: []
 image: img/8indoor.png
-date: '2020-04-12T10:00:00.000Z'
+date: '2020-04-08T10:00:00.000Z'
 draft: false
 ---
 
